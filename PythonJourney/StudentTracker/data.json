@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Ali Abbas",
+    "Subject": "Maths",
+    "Marks": 50
+  },
+  {
+    "name": "Alice",
+    "Subject": "Maths",
+    "Marks": 85
+  },
+  {
+    "name": "Bob",
+    "Subject": "Science",
+    "Marks": 90
+  },
+  {
+    "name": "Charlie",
+    "Subject": "English",
+    "Marks": 40
+  }
+]
